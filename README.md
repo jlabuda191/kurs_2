@@ -9,3 +9,4 @@ nowa zmiana _ v2
 hej hej
 
 no hej, co tam?
+siema1
